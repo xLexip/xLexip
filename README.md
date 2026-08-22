@@ -1,2 +1,2 @@
-[![GitHub Profile Statistics](https://github-readme-stats.vercel.app/api?username=xLexip&show_icons=true&theme=github_dark_dimmed&hide_rank=false&include_all_commits=true&cache_seconds=86400)](https://github-readme-stats.vercel.app/api?username=xLexip&show_icons=true&theme=github_dark_dimmed&hide_rank=true&include_all_commits=false)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=xLexip&show=prs_merged_percentage%2Cissues_commented&include_all_commits=true&theme=github_dark)](https://github.com/xLexip)
 [ ](https://lexip.dev/rr)
